@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "B_L2_P2.md",
-        "B_L2_P3.md"
+        "B_L2_P3.md",
+        "B/L2/P1.md"
     ],
     "testFiles": [
         "test.ts"
